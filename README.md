@@ -1,4 +1,5 @@
 # assembly_hw5
+题目的解答见cal.asm；拓展题目见time.asm
 
 1. 如果将题目拆分成 清屏 和 特定位置显示一个字符串
    则清屏可以用	BIOS级中断里 int 10h来实现
